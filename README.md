@@ -11,7 +11,7 @@ make weather
 make curl2file
 
 ## Run
-make test
+./weather.sh
 
 ## Credit
 url2file.c is from Daniel, Stenberg, <daniel@haxx.se>, et al.
