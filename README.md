@@ -1,7 +1,7 @@
 Weather in Shanghai
 ===================
 
-Retrieve the weather forcast of Shanghai from http://www.weather.com.cn
+Retrieve the weather forecast of Shanghai from http://www.weather.com.cn
 
 ## Prerequest
 python3, curl library, flex
